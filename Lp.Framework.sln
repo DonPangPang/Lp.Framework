@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lp.Framework.Core", "src\Lp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lp.Framework.Repository", "src\Lp.Framework.Repository\Lp.Framework.Repository.csproj", "{40DC0C7F-9935-4BCC-8399-9889B1E462E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lp.Framework.HttpService", "src\Lp.Framework.HttpService\Lp.Framework.HttpService.csproj", "{3DDDE615-F744-4450-83A9-142662531EFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{40DC0C7F-9935-4BCC-8399-9889B1E462E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40DC0C7F-9935-4BCC-8399-9889B1E462E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40DC0C7F-9935-4BCC-8399-9889B1E462E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DDDE615-F744-4450-83A9-142662531EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDDE615-F744-4450-83A9-142662531EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDDE615-F744-4450-83A9-142662531EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDDE615-F744-4450-83A9-142662531EFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -99,6 +105,7 @@ Global
 		{CB78EE6B-11BC-419D-8AA7-88F39DD6298A} = {6AA74C70-A585-4103-AEF7-B74BF6F4496E}
 		{688B4DFF-347E-4149-A2AA-F257E01759B7} = {BDF30AC1-75DD-47AC-A0E6-0C7FA83D7743}
 		{40DC0C7F-9935-4BCC-8399-9889B1E462E1} = {BDF30AC1-75DD-47AC-A0E6-0C7FA83D7743}
+		{3DDDE615-F744-4450-83A9-142662531EFD} = {BDF30AC1-75DD-47AC-A0E6-0C7FA83D7743}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EFBD3DBD-3A6E-4B3C-96D6-066A4C78151C}
