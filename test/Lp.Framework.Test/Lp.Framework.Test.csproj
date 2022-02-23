@@ -21,6 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\src\Lp.Framework.HttpService\Lp.Framework.HttpService.csproj" />
     <ProjectReference Include="..\..\src\Lp.Framework.Shared\Lp.Framework.Shared.csproj" />
   </ItemGroup>
 
